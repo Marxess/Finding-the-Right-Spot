@@ -22,5 +22,5 @@ Ireland’s Local Enterprise Office (LEO) spearheads business support for compan
 
 Sources: https://developer.foursquare.com/docs/build-with-foursquare/chains/; https://fontawesome.com/v4.7.0/icons/;https://www.bloomberg.com/profile/company/0292733Z:ID; https://janakiev.com/blog/gps-points-distance-python/; 
 
-Maps visualization: https://nbviewer.jupyter.org/github/Marxess/Finding-the-Right-Spot/blob/main/notebooks/Analysing%20Dublin%20Office%20Location%20.ipynb;
+Maps visualization: https://nbviewer.jupyter.org/github/Marxess/Finding-the-Right-Spot/blob/main/notebooks/Analysing%20Dublin%20Office%20Location%20.ipynb; https://nbviewer.jupyter.org/github/Marxess/Finding-the-Right-Spot/blob/main/notebooks/Clean%20Notebook.ipynb
 
