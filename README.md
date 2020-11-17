@@ -21,3 +21,6 @@ Significantly cheaper than London, Dublin attracts young tech talent from all ov
 Ireland’s Local Enterprise Office (LEO) spearheads business support for companies looking to relocate to Ireland through mentoring, training and grants ranging from €15,000 to help companies research market demand to €80,000 for expansion.
 
 Sources: https://developer.foursquare.com/docs/build-with-foursquare/chains/; https://fontawesome.com/v4.7.0/icons/;https://www.bloomberg.com/profile/company/0292733Z:ID; https://janakiev.com/blog/gps-points-distance-python/; 
+
+Maps visualization: https://nbviewer.jupyter.org/github/Marxess/Finding-the-Right-Spot/blob/main/notebooks/Analysing%20Dublin%20Office%20Location%20.ipynb;
+
