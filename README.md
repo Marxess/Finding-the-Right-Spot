@@ -9,6 +9,7 @@ This project's aim is to conduct an analysis based on geolocation in order to fi
 - Executives like Starbucks A LOT. Ensure there's a starbucks not too far.
 - Account managers need to travel a lot.
 - Everyone in the company is between 25 and 40, give them some place to go party.
+- The office dog—"Pepe" needs a hairdresser every month. Ensure there's one not too far away.
 
 ## **Analysis**
 I will focus my analysis in Dublin for the following reasons:
